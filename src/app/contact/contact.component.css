@@ -1,0 +1,9 @@
+.phone-number{
+  font-size: 120%;
+  font-weight: 700;
+  text-decoration: none;
+  color: inherit;
+}
+mat-icon{
+  font-size: 110%;
+}
