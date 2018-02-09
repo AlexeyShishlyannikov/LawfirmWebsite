@@ -1,0 +1,17 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+.show-xs{
+  display: none;
+}
+mat-icon{
+  font-size: 200%;
+}
+@media (max-width: 557px) {
+  .no-show-xs{
+    display: none;
+  }
+  .show-xs{
+    display: initial;
+  }
+}

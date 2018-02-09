@@ -1,0 +1,14 @@
+
+
+.image-face{
+  background-size: cover;
+  background-position: top;
+  min-height: 350px;
+}
+mat-card{
+  margin: 20px 0;
+}
+mat-card-title{
+  padding-top: 20px;
+}
+
